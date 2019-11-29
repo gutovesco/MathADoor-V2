@@ -1,0 +1,265 @@
+# depslib dependency file v1.0
+1569633266 source:c:\users\guto\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcao4.c"
+	"funcao2.c"
+
+1568468449 c:\users\guto\desktop\menu\calculos.h
+
+1568507170 source:c:\users\guto\desktop\menu\calculos.c
+	"calculos.h"
+
+1569028755 c:\users\guto\desktop\menu\funcoes.h
+
+1569633036 c:\users\guto\desktop\menu\funcao2.h
+	<math.h>
+
+1569633266 source:c:\users\guto\desktop\menu\funcao2.c
+	<math.h>
+
+1569630282 source:c:\users\guto\desktop\menu\funcao3.c
+
+1569630903 source:c:\users\guto\desktop\menu\funcao1parte1.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1569632841 source:c:\users\guto\desktop\menu\funcao4.c
+	<math.h>
+
+1569630903 c:\users\guto\desktop\menu\funcao1parte1.h
+	<math.h>
+
+1569632841 c:\users\guto\desktop\menu\funcao4.c
+	<math.h>
+
+1569633266 c:\users\guto\desktop\menu\funcao2.c
+	<math.h>
+
+1569696594 source:c:\users\guto\desktop\menubom\funcao2.c
+	<math.h>
+
+1570841572 source:c:\users\guto\desktop\menubom\funcao4.c
+	<math.h>
+
+1570841382 source:c:\users\guto\desktop\menubom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcao1.c"
+	"funcao2.c"
+	"funcao3.c"
+	"funcao4.c"
+	"funcao5.c"
+	"funcao6.c"
+	"funcao7.c"
+	"funcao8.c"
+	"funcao9.c"
+	"funcao10.c"
+
+1570841572 c:\users\guto\desktop\menubom\funcao4.c
+	<math.h>
+
+1569696594 c:\users\guto\desktop\menubom\funcao2.c
+	<math.h>
+
+1569696852 source:c:\users\guto\desktop\menubom\funcao1.c
+	<math.h>
+
+1569697763 source:c:\users\guto\desktop\menubom\funcao3.c
+	<math.h>
+
+1569697763 source:c:\users\guto\desktop\menubom\funcao5.c
+	<math.h>
+
+1569698082 source:c:\users\guto\desktop\menubom\funcao6.c
+	<math.h>
+
+1569698365 source:c:\users\guto\desktop\menubom\funcao7.c
+	<math.h>
+
+1569698750 source:c:\users\guto\desktop\menubom\funcao8.c
+	<math.h>
+
+1569696852 c:\users\guto\desktop\menubom\funcao1.c
+	<math.h>
+
+1569697763 c:\users\guto\desktop\menubom\funcao3.c
+	<math.h>
+
+1569697763 c:\users\guto\desktop\menubom\funcao5.c
+	<math.h>
+
+1569698082 c:\users\guto\desktop\menubom\funcao6.c
+	<math.h>
+
+1569698365 c:\users\guto\desktop\menubom\funcao7.c
+	<math.h>
+
+1569698750 c:\users\guto\desktop\menubom\funcao8.c
+	<math.h>
+
+1569699223 source:c:\users\guto\desktop\menubom\funcao10.c
+	<math.h>
+
+1569699223 source:c:\users\guto\desktop\menubom\funcao9.c
+	<math.h>
+
+1569699223 c:\users\guto\desktop\menubom\funcao9.c
+	<math.h>
+
+1569699223 c:\users\guto\desktop\menubom\funcao10.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao1.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao10.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao2.c
+	<math.h>
+
+1571918046 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao3.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao4.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao5.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao6.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao7.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao8.c
+	<math.h>
+
+1571002682 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao9.c
+	<math.h>
+
+1571918573 source:c:\users\suporteinfo\desktop\mathadoor-master\menubom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcao1.c"
+	"funcao2.c"
+	"funcao3.c"
+	"funcao4.c"
+	"funcao5.c"
+	"funcao6.c"
+	"funcao7.c"
+	"funcao8.c"
+	"funcao9.c"
+	"funcao10.c"
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao1.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao2.c
+	<math.h>
+
+1571918046 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao3.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao4.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao5.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao6.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao7.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao8.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao9.c
+	<math.h>
+
+1571002682 c:\users\suporteinfo\desktop\mathadoor-master\menubom\funcao10.c
+	<math.h>
+
+1574358365 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao1.c
+	<math.h>
+
+1571002682 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao10.c
+	<math.h>
+
+1574867679 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao2.c
+	<math.h>
+
+1574867679 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao3.c
+	<math.h>
+
+1571002682 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao4.c
+	<math.h>
+
+1574867824 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao5.c
+	<math.h>
+
+1571002682 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao6.c
+	<math.h>
+
+1574877567 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao7.c
+	<math.h>
+
+1571002682 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao8.c
+	<math.h>
+
+1571002682 source:c:\users\gutov\desktop\mathadoor-master\menubom\funcao9.c
+	<math.h>
+
+1575051493 source:c:\users\gutov\desktop\mathadoor-master\menubom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcao1.c"
+	"funcao2.c"
+	"funcao3.c"
+	"funcao4.c"
+	"funcao5.c"
+	"funcao6.c"
+	"funcao7.c"
+	"funcao8.c"
+	"funcao9.c"
+	"funcao10.c"
+
+1574358365 c:\users\gutov\desktop\mathadoor-master\menubom\funcao1.c
+	<math.h>
+
+1574867679 c:\users\gutov\desktop\mathadoor-master\menubom\funcao2.c
+	<math.h>
+
+1574867679 c:\users\gutov\desktop\mathadoor-master\menubom\funcao3.c
+	<math.h>
+
+1571002682 c:\users\gutov\desktop\mathadoor-master\menubom\funcao4.c
+	<math.h>
+
+1574867824 c:\users\gutov\desktop\mathadoor-master\menubom\funcao5.c
+	<math.h>
+
+1571002682 c:\users\gutov\desktop\mathadoor-master\menubom\funcao6.c
+	<math.h>
+
+1574877567 c:\users\gutov\desktop\mathadoor-master\menubom\funcao7.c
+	<math.h>
+
+1571002682 c:\users\gutov\desktop\mathadoor-master\menubom\funcao8.c
+	<math.h>
+
+1571002682 c:\users\gutov\desktop\mathadoor-master\menubom\funcao9.c
+	<math.h>
+
+1571002682 c:\users\gutov\desktop\mathadoor-master\menubom\funcao10.c
+	<math.h>
+
